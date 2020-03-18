@@ -1,5 +1,7 @@
 # vue
 
+Note to self: don't use an old version of npm to install vue
+
 ## Project setup
 ```
 npm install
